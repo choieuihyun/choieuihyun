@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
             
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=IOS & AOS 둘다 잘하고 싶은 개발자&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#228B22&height=300&section=header&text=그냥%20잘하고%20싶다&fontSize=60)
             
 
 
