@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
             
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=아이디어%20저장소%20&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=잘하고%20싶다!%20&fontSize=60)
             
 
 
